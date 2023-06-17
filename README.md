@@ -23,3 +23,10 @@ dev-cloud
     main.go
 ```
 
+### 分支
+```
+main                    主分支
+devctl                  命令行分支
+dev-rsync               被同步端分支
+dev-sync                同步端分支
+```
